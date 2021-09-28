@@ -1,16 +1,11 @@
-### Hi there 👋
-
-<!--
-**PaolaSaraiva/PaolaSaraiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Paôla Saraiva
+( ˘▽˘)っ
+Hi my name is Paôla Saraiva, I am beggining to learn some coding and this is my GitHub profile, I hope you enjoy.  ⸂⸂⸜(രᴗര๑)⸝⸃⸃
+ ## What am I working on 
+I am currently a aspiring developer at Alpha EdTech and a software enginnering student at Estácio de Sá University. ᕙ(⇀‸↼‶)ᕗ
+## Fun facts 
+- I am obsessed with The Lord of the Rings ( ๑‾̀◡‾́)σº
+- I love animes 
+- I play D&D and other table top RPGs
+- I'm brazilian 🌎
+- As you can see I love japonese emojis ٩(＾◡＾)۶
