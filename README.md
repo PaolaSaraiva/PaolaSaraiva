@@ -8,4 +8,4 @@ I am currently a aspiring developer at Alpha EdTech and a software enginnering s
 - I love animes 
 - I play D&D and other table top RPGs
 - I'm brazilian 🌎
-- As you can see I love japonese emojis ٩(＾◡＾)۶
+- As you can see I love japanese emojis ٩(＾◡＾)۶
